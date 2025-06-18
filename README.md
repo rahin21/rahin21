@@ -1,9 +1,18 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-  My name is Rahin Zaman and I'm a FullStack Developer🧑‍💻.<br>
-  Currently working as Jr. Software Engineer at <a href='https://ascendai.site/'>Ascend-Ai</a> 🏢.
-</p>
+<table>
+<tr>
+<td width="60%">
+  <p align="left">
+    My name is Rahin Zaman and I'm a FullStack Developer 🧑‍💻.<br>
+    Currently working as Jr. Software Engineer at <a href='https://ascendai.site/'>Ascend-Ai</a> 🏢.
+  </p>
+</td>
+<td>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="user image" />
+</td>
+</tr>
+</table>
 
 <h2 align="left">About me</h2>
 <p align="left">
