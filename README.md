@@ -72,8 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img width="1"/>
   <br><br>
-  <img height="10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahin21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+ 
 </div>
 
 <h2 align="left">Connect with me</h2>
