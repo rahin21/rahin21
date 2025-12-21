@@ -5,7 +5,7 @@
 <td width="60%">
   <p align="left">
     My name is Rahin Zaman and I'm a FullStack Developer 🧑‍💻.<br>
-    Currently working as Jr. Software Engineer at <a href='https://ascendai.site/'>Ascend-Ai</a> 🏢.
+    Currently working as Jr. Software Engineer at <a href='https://ascendai.site/'>Ascend-AI</a> 🏢.
   </p>
 </td>
 <td>
